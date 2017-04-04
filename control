@@ -1,0 +1,10 @@
+Package: com.wizages.iwanttobelikethem
+Name: IWantToBeLikeThem
+Depends: mobilesubstrate
+Version: 0.1~beta1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: wizages
+Author: wizages
+Section: Tweaks
+Depiction: http://wizages.com/cydia/depictions/?dep=com.wizages.iwanttobelikethem
